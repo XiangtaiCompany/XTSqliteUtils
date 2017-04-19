@@ -1,0 +1,7 @@
+XTSqliteUtils.xcodeproj/xcuserdata/
+XTSqliteUtils.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+XTSqliteUtils.xcodeproj/project.xcworkspace/xcuserdata/
